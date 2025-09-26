@@ -1,0 +1,103 @@
+		body {
+            background-color: rgb(66, 18, 18);
+            background-repeat: no-repeat;
+			background-image: url("banner.png")
+        }
+		
+		
+		h1 {
+            font-size: 100px;
+            text-align: center;
+            color: white;
+			margin-top: 150px;
+            margin-bottom: 300px;
+			text-shadow: 5px 5px 5px black
+
+        }
+	
+		
+		iframe{
+			margin:0 50px auto 0;
+		}
+		
+		
+		
+		
+		h2{
+			font-size: 60px;
+            text-align: center;
+            color: white;
+		}
+		
+			
+		h3{
+			font-size: 40px;
+            text-align: center;
+            color: white;
+		}
+		
+		p {
+            text-align: justify;
+            padding: 20px;
+            margin: 0 auto 40px auto;
+            font-size: 30px;
+            color: white;
+            max-width: 900px;
+            line-height: 40px;
+        }
+			
+		
+		
+		img {
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+			margin:0 20px auto 0;
+
+		}
+		
+		.tab1 {
+			margin-top:30px;
+            color: white;
+            border-color: black;
+			width: 40%;
+			padding: 15px;
+			border: solid 2px
+        }
+		
+		.tab2{
+			margin-top: 30px;
+			color: white;
+            border-color: black;
+			width: 40%;
+			padding: 15px;
+			border: solid 2px
+		}
+		
+		
+
+		 ol,ul {
+            text-align: justify;
+            padding: 20px;
+            margin: 0 auto 40px auto;
+            font-size: 18px;
+            color: #f0dada;
+            max-width: 900px;
+            line-height: 25px;
+        }
+		
+		li {
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+		
+		
+		footer{
+			align:center;
+			font-style:italic;
+			font-size: 20px;
+			text-align:center;
+			padding: 15px;
+			color: white;
+			background-color: rgb(28, 63, 148);
+		}
